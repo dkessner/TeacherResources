@@ -1,6 +1,4 @@
 
-# About 
-
 ## About the author
 
 I teach math and computer science at Marlborough School, an independent girls
