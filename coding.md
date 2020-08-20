@@ -42,12 +42,12 @@ Processing is really a Java library, so it's useful for
 
 Python is a really good language for learning text-based programming.
 
-- [Python](https://www.python.org/): main website, with more documentation
-and tutorials than you will ever need
+- [Python](https://www.python.org/): main website, with more documentation and
+  tutorials than you will ever need
 
-- [Google Colaboratory](https://colab.research.google.com/)
-
-
+- [Google Colaboratory](https://colab.research.google.com/): Python coding in
+  the browser (based on [Jupyter](https://jupyter.org/)), combined with the
+  sharing features of Google docs
 
 
 
