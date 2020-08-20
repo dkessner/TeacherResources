@@ -1,35 +1,60 @@
 
 # About 
 
-## About these pages
+## About the author
 
-The examples are written in [Processing](https://processing.org/), which is an
-open source language and development environment used by students and artists
-worldwide.  Processing is a simplified version of Java:  the syntax that you
-learn in Processing is actually Java syntax, and as you learn to code, most
-languages in the C/C++ family (of which Java is a member) will start to look
-familiar to you.
+I am a teacher and software developer, and I use free and open source software
+extensively in the classroom.  Free and open source software is not only free
+of charge, but free of licensing and usage restrictions.  I encourage you to
+learn more about [free and open source
+software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+
+My daily work depends heavily on many free and open source projects.
+
+Tools:
+- [Linux](https://en.wikipedia.org/wiki/Linux): free operating system, not only
+  for desktop and laptop computers, but for mini-computers like the Raspberry
+  Pi.
+- [Vim](https://www.vim.org/): text editor
+- [Pandoc](https://pandoc.org/): universal document converter
+- [OBS Studio](https://obsproject.com/): video recording and streaming
+- [VLC](https://www.videolan.org/vlc/index.html): media player
+
+Websites:
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page): free content delivered by free software
+- [GitHub](https://github.com/): software repository for many free and open source projects
+
+Computer Science curriculum:
+- [Processing](https://processing.org/): simplified Java language and
+    development environment, great for learning coding
+- [Python](https://www.python.org/): another great language for learning coding
+- [OpenJDK](https://openjdk.java.net/) and 
+  [AdoptOpenJDK](https://adoptopenjdk.net/): free Java Development Kit
+- [Homebrew](https://brew.sh/): package manager for OSX
+
+<br/>
+## About these pages
 
 This site uses [GitHub Pages](https://pages.github.com/).  The pages are
 written in [Markdown](https://daringfireball.net/projects/markdown/syntax)
 which GitHub converts to HTML with the static site generator
 [Jekyll](https://jekyllrb.com/).  The style sheets are based on the [Jekyll
-hacker theme](https://github.com/pages-themes/hacker).  The Processing sketches
-are embedded in the pages with [ProcessingJS](http://processingjs.org/).
+hacker theme](https://github.com/pages-themes/hacker).  
 
-You can copy or download the code on each example page.  And here is the
-[source code](https://github.com/dkessner/ProcessingExamples) on GitHub.
+And here is the [source code](https://github.com/dkessner/TeacherResources) 
+for these pages on GitHub.
 
-
-
+<br/>
 ## Contact
 
 Dr. Darren Kessner  
 Mathematics and Computer Science Instructor  
 STEM+ Program Co-Head  
 [Darren.Kessner@marlborough.org](mailto:darren.kessner@marlborough.org)  
-
 [Marlborough STEM+ Program](http://stem.marlborough.org)  
+
+Marlborough School  
+Los Angeles, California  
 [Marlborough School](http://marlborough.org)  
 
 

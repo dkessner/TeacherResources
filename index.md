@@ -1,12 +1,14 @@
 # Welcome teachers!
 
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
-The quick brown fox jumps over the lazy dog.
+This website is a collection of free and open source resources
+for teachers.  
+
+<br/>  
 
 Have fun!
 
+<br/>  
+
+Darren / Dr. Kessner
 
 
