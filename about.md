@@ -10,7 +10,10 @@ Tools:
   for desktop and laptop computers, but for mini-computers like the Raspberry
   Pi.
 - [Vim](https://www.vim.org/): text editor
-- [Pandoc](https://pandoc.org/): universal document converter
+- [Markdown](https://daringfireball.net/projects/markdown/), 
+  [LaTeX](https://www.latex-project.org/), and
+  [Pandoc](https://pandoc.org/):
+    typesetting math and code, both for print and online
 - [OBS Studio](https://obsproject.com/): video recording and streaming
 - [VLC](https://www.videolan.org/vlc/index.html): media player
 
@@ -30,10 +33,9 @@ Computer Science curriculum:
 ## About these pages
 
 This site is hosted on [GitHub Pages](https://pages.github.com/).  The pages
-are written in [Markdown](https://daringfireball.net/projects/markdown/syntax)
-which GitHub converts to HTML with the static site generator
-[Jekyll](https://jekyllrb.com/).  The style sheets are based on the [Jekyll
-hacker theme](https://github.com/pages-themes/hacker).  
+are written in Markdown which GitHub converts to HTML with the static site
+generator [Jekyll](https://jekyllrb.com/).  The style sheets are based on the
+[Jekyll hacker theme](https://github.com/pages-themes/hacker).  
 
 And here is the [source code](https://github.com/dkessner/TeacherResources) 
 for these pages on GitHub.

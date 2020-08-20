@@ -9,8 +9,8 @@ OBS Studio is the software tool of choice for
 [YouTubers](https://www.youtube.com/) and 
 [Twitch streamers](https://www.twitch.tv/), 
 whose thousands of followers voluntarily watch their videos / live streams
-every week.  As teachers moving to online learning, we can learn a lot from
-what streamers do to engage their audiences.
+every week.  As teachers new to online learning, we can learn a lot by watching
+how streamers engage their audiences.
 
 You can download OBS Studio here:
 [https://obsproject.com/](https://obsproject.com/)
