@@ -3,13 +3,9 @@
 
 ## About the author
 
-I am a teacher and software developer, and I use free and open source software
-extensively in the classroom.  Free and open source software is not only free
-of charge, but free of licensing and usage restrictions.  I encourage you to
-learn more about [free and open source
-software](https://en.wikipedia.org/wiki/Free_and_open-source_software).
-
-My daily work depends heavily on many free and open source projects.
+I teach math and computer science at Marlborough School, an independent girls
+school in Los Angeles.  My daily work depends heavily on many free and open
+source projects.
 
 Tools:
 - [Linux](https://en.wikipedia.org/wiki/Linux): free operating system, not only
@@ -35,8 +31,8 @@ Computer Science curriculum:
 <br/>
 ## About these pages
 
-This site uses [GitHub Pages](https://pages.github.com/).  The pages are
-written in [Markdown](https://daringfireball.net/projects/markdown/syntax)
+This site is hosted on [GitHub Pages](https://pages.github.com/).  The pages
+are written in [Markdown](https://daringfireball.net/projects/markdown/syntax)
 which GitHub converts to HTML with the static site generator
 [Jekyll](https://jekyllrb.com/).  The style sheets are based on the [Jekyll
 hacker theme](https://github.com/pages-themes/hacker).  
