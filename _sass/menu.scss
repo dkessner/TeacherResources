@@ -1,0 +1,39 @@
+/* dk */
+
+#main {
+    float: left; 
+    margin: 1%;
+    padding: 1.5%;
+    width: 70%;
+}
+
+#menu {
+    float: left; 
+    margin: 1%;
+    padding: 1%;
+    width: 20%;
+    min-width: 200px;
+    background-color: $body-background;
+    border-style: solid;
+    font-size: 16px;
+}
+
+#menu li {
+    list-style-type: none;
+    font-weight: normal;
+}
+
+#menu a:link, #menu a:visited {
+    color: $body-foreground;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    font-weight: 900;
+    color: #fff;
+}
+
+#menu p {
+    text-align: center;
+}
+
