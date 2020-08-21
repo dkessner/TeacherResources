@@ -1,4 +1,4 @@
-# Free textbooks online
+# Textbooks
 
 There are lots of [free and open source
 textbooks](http://iae-pedia.org/Open_Source_Textbooks) online.  Some books are
@@ -28,5 +28,10 @@ another list of free college-level mathematics textbooks.
 Springer has made many of their graduate level math and physics books available
 during the pandemic.
 
+
+## Humanities
+
+- [Project Gutenberg](https://www.gutenberg.org/): online library of public
+domain works
 
 

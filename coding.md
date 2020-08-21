@@ -1,4 +1,4 @@
-# Free coding resources
+# Coding resources 
 
 ## Organizations
 
