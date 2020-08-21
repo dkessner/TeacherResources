@@ -1,8 +1,28 @@
 # Textbooks
 
-There are lots of [free and open source
-textbooks](http://iae-pedia.org/Open_Source_Textbooks) online.  Some books are
-made available by the author, and others by the publisher.  
+There are lots of 
+[free and open source textbooks](http://iae-pedia.org/Open_Source_Textbooks) 
+online.  Some books are made available by the author, and others by the
+publisher.  
+
+## General
+
+- [Project Gutenberg](https://www.gutenberg.org/): online library of public
+  domain works
+
+- [OpenStax](https://openstax.org/): peer-reviewed free textbooks published by
+  Rice University
+
+- [LibreTexts](https://libretexts.org/): open, interactive, online textbooks
+
+- [Open Textbook Library](https://open.umn.edu/opentextbooks): searchable
+  collection of open textbooks hosted by University of Minnesota
+
+- [Open Textbooks](https://www.oercommons.org/hubs/open-textbooks): searchable
+  collection from OER Commons
+
+- [OASIS](https://oasis.geneseo.edu/index.php): open educational resource
+database hosted by Geneseo college (SUNY)
 
 
 ## Math and Computer Science
@@ -28,10 +48,5 @@ another list of free college-level mathematics textbooks.
 Springer has made many of their graduate level math and physics books available
 during the pandemic.
 
-
-## Humanities
-
-- [Project Gutenberg](https://www.gutenberg.org/): online library of public
-domain works
 
 
