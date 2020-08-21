@@ -33,8 +33,8 @@ from Daniel Shiffman, one of the creators of Processing
 that we use at Marlborough School
 
 - [Processing Library Examples](https://dkessner.github.io/ProcessingLibraryExamples/): 
-Processing is really a Java library, so it's useful for 
-[AP Computer Science A](https://en.wikipedia.org/wiki/AP_Computer_Science_A).
+tutorial examples on using Processing as a Java library (useful for 
+[AP Computer Science A](https://en.wikipedia.org/wiki/AP_Computer_Science_A))
 
 
 

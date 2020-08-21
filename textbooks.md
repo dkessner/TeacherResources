@@ -28,11 +28,11 @@ database hosted by Geneseo college (SUNY)
 ## Math and Computer Science
 
 - [Real Not Complex](https://realnotcomplex.com/): 
-A large collection of free math textbooks from elementary school through
-graduate-level mathematics.
+a large collection of free math textbooks from elementary school through
+graduate-level mathematics
 
 - [American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/): 
-open textbooks approved by the American Institute of Mathematics.
+open textbooks approved by the American Institute of Mathematics
 
 - [Green Tea Press](https://greenteapress.com/wp/):
 publisher of free computer science books
@@ -46,8 +46,5 @@ another list of free college-level mathematics textbooks from Professor
 Dana Ernst
 
 - [Springer](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&%23038;facet-language=%22En%22&%23038;sortOrder=newestFirst&%23038;showAll=true):
-Springer has made many of their graduate level math and physics books available
-during the pandemic.
-
-
+graduate level math and physics books available during the pandemic
 
