@@ -2,10 +2,10 @@
 
 ## Organizations
 
-- [Code.org](https://code.org/): coding tutorials, Hour of Code
-
 - [Girls Who Code](https://girlswhocode.com/): clubs and summer programs to
   close the gender gap in computer science
+
+- [Code.org](https://code.org/): coding tutorials, Hour of Code
 
 ## Block-based programming
 
