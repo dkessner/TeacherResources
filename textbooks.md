@@ -39,10 +39,11 @@ publisher of free computer science books
 
 - [Open Content Mathematics Curriculum](http://linear.ups.edu/curriculum.html): 
 a selection of books for a full undergraduate mathematics curriculum, from
-Professor Robert Beezer.
+Professor Robert Beezer
 
 - [Free and Open-Source Textbooks](http://danaernst.com/resources/free-and-open-source-textbooks/):
-another list of free college-level mathematics textbooks.
+another list of free college-level mathematics textbooks from Professor
+Dana Ernst
 
 - [Springer](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&%23038;facet-language=%22En%22&%23038;sortOrder=newestFirst&%23038;showAll=true):
 Springer has made many of their graduate level math and physics books available
