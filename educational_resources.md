@@ -1,14 +1,21 @@
-# Textbooks
+# Educational Resources
+
+- [Project Gutenberg](https://www.gutenberg.org/): online library of public
+  domain works
+
+- [MIT Open Courseware](https://ocw.mit.edu/index.htm): videos and course
+  materials for full courses at MIT
+
+- [LabXchange](https://www.labxchange.org/): free science content, through a
+  collaboration including Harvard, Amgen, Khan Academy, and more.
+
+
+## General Textbooks
 
 There are lots of 
 [free and open source textbooks](http://iae-pedia.org/Open_Source_Textbooks) 
 online.  Some books are made available by the author, and others by the
 publisher.  
-
-## General
-
-- [Project Gutenberg](https://www.gutenberg.org/): online library of public
-  domain works
 
 - [OpenStax](https://openstax.org/): peer-reviewed free textbooks published by
   Rice University
@@ -25,7 +32,7 @@ publisher.
 database hosted by Geneseo college (SUNY)
 
 
-## Math and Computer Science
+## Math and Computer Science Textbooks
 
 - [Real Not Complex](https://realnotcomplex.com/): 
 a large collection of free math textbooks from elementary school through
