@@ -23,10 +23,8 @@
 
 ## General Textbooks
 
-There are lots of 
-[free and open source textbooks](http://iae-pedia.org/Open_Source_Textbooks) 
-online.  Some books are made available by the author, and others by the
-publisher.  
+There are lots of free and open source textbooks online.  Some books are made
+available by the author, and others by the publisher.  
 
 - [OpenStax](https://openstax.org/): peer-reviewed free textbooks published by
   Rice University

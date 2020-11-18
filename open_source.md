@@ -3,7 +3,9 @@
 ## General information
 
 - [Wikipedia - free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+- [Wikipedia - free and open source textbooks](http://iae-pedia.org/Open_Source_Textbooks) 
 - [Wikipedia - open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources)
+- [Wikipedia - open data](https://en.wikipedia.org/wiki/Open_data) 
 
 ## Government initiatives
 

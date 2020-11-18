@@ -1,9 +1,8 @@
 # Public Data
 
 Similar to the free and open source software movement, there has been a
-movement for [open data](https://en.wikipedia.org/wiki/Open_data) 
-in science and government.  Many non-profit organizations are also 
-making data available publicly.
+movement for open data in science and government.  Many non-profit
+organizations are also making data available publicly.
 
 - [United States](https://www.data.gov/)
 - [European Union](https://data.europa.eu/euodp/en/home)
