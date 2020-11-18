@@ -1,7 +1,7 @@
 # Educational Resources
 
-- [Project Gutenberg](https://www.gutenberg.org/): online library of public
-  domain works
+
+## Free courses and educational materials
 
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm): videos and course
   materials for full courses at MIT
@@ -9,6 +9,17 @@
 - [LabXchange](https://www.labxchange.org/): free science content, through a
   collaboration including Harvard, Amgen, Khan Academy, and more.
 
+- [Paul's Online Notes](https://tutorial.math.lamar.edu/): free online and
+  downloadable math notes and tutorials 
+
+
+## Public Domain works
+
+- [Project Gutenberg](https://www.gutenberg.org/): online library of public
+  domain works
+
+- [Standard Ebooks](https://standardebooks.org/): open source public domain
+  works with high quality formatting
 
 ## General Textbooks
 
