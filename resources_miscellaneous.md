@@ -1,4 +1,6 @@
-# Public Data
+# Miscellaneous resources
+
+## Public Data
 
 Similar to the free and open source software movement, there has been a
 movement for open data in science and government.  Many non-profit
@@ -14,3 +16,10 @@ organizations are also making data available publicly.
 - [Caselaw Access Project (Harvard Law School)](https://case.law/)
 - [UNICEF public data](https://data.unicef.org/)
 
+
+## Public domain
+
+- [Pixabay](https://pixabay.com/): royalty-free images
+- [Artvee](https://artvee.com/): public domain artworks
+
+ 
