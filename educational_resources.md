@@ -64,3 +64,10 @@ Dana Ernst
 - [Springer](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&%23038;facet-language=%22En%22&%23038;sortOrder=newestFirst&%23038;showAll=true):
 graduate level math and physics books available during the pandemic
 
+- [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/):
+mathematical function reference from the National Institute of Standards and
+Technology
+
+
+
+
