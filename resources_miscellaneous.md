@@ -17,9 +17,14 @@ organizations are also making data available publicly.
 - [UNICEF public data](https://data.unicef.org/)
 
 
-## Public domain
+## Images and art
 
+- [Smithsonian Open Access](https://www.si.edu/openaccess)
+- [Rijkstudio](https://www.rijksmuseum.nl/en/rijksstudio)
+- [British Museum Online](https://www.britishmuseum.org/collection)
+- [Google Arts and Culture](https://artsandculture.google.com/)
 - [Pixabay](https://pixabay.com/): royalty-free images
 - [Artvee](https://artvee.com/): public domain artworks
+- [Iconduck](https://iconduck.com/): open source icons and illustrations
 
- 
+
