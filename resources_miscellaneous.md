@@ -23,6 +23,7 @@ organizations are also making data available publicly.
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
 - [Rijkstudio](https://www.rijksmuseum.nl/en/rijksstudio)
 - [British Museum Online](https://www.britishmuseum.org/collection)
+- [Royal Photographic Society](https://archive.rps.org/archive)
 - [Google Arts and Culture](https://artsandculture.google.com/)
 - [Pixabay](https://pixabay.com/): royalty-free images
 - [Artvee](https://artvee.com/): public domain artworks
