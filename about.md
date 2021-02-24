@@ -5,6 +5,8 @@ I teach math and computer science at Marlborough School, an independent girls
 school in Los Angeles.  My daily work depends heavily on many free and open
 source projects.
 
+In the classroom I use free and open source software and open textbooks.
+
 Tools:
 - [Linux](https://en.wikipedia.org/wiki/Linux): free operating system, not only
   for desktop and laptop computers, but for mini-computers like the Raspberry

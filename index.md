@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Welcome teachers!
 
 This website is a collection of free and open source resources
