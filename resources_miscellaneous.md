@@ -19,6 +19,7 @@ organizations are also making data available publicly.
 
 ## Images and art
 
+- [University of Tokyo General Library](https://archive.org/details/utokyo-general)
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
 - [Rijkstudio](https://www.rijksmuseum.nl/en/rijksstudio)
 - [British Museum Online](https://www.britishmuseum.org/collection)
