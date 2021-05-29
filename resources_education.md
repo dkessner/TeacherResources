@@ -2,11 +2,13 @@
 
 ## Open Educational Resources (OER)
 
+- [OER Commons](https://www.oercommons.org): a public digital library of
+  open educational resources.
+
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm): videos and course
   materials for full courses at MIT
 
-- [OER Commons](https://www.oercommons.org): a public digital library of
-  open educational resources.
+- [Open Yale Courses](https://oyc.yale.edu/): full courses from Yale University
 
 - [LabXchange](https://www.labxchange.org/): free science content, through a
   collaboration including Harvard, Amgen, Khan Academy, and more.
@@ -35,6 +37,11 @@ available by the author, and others by the publisher.
 
 - [OASIS](https://oasis.geneseo.edu/index.php): open educational resource
 database hosted by Geneseo college (SUNY)
+
+- [Online Books Page](http://onlinebooks.library.upenn.edu): search engine from UPenn
+
+- [Open Book Publishers](https://www.openbookpublishers.com/): an independent
+  open access academic publisher
 
 - [LibreTexts](https://libretexts.org/): open, interactive, online textbooks
 
@@ -65,6 +72,8 @@ graduate level math and physics books available during the pandemic
 - [Paul's Online Notes](https://tutorial.math.lamar.edu/): free online and
   downloadable math notes and tutorials 
 
+- [Computer Science Textbooks](https://csgordon.github.io/books.html): a list of CS books from 
+  Professor Colin S. Gordon
 
 ## Reference
 
