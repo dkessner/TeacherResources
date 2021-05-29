@@ -1,17 +1,15 @@
 # Educational Resources
 
-
-## Free courses and educational materials
+## Open Educational Resources (OER)
 
 - [MIT Open Courseware](https://ocw.mit.edu/index.htm): videos and course
   materials for full courses at MIT
 
+- [OER Commons](https://www.oercommons.org): a public digital library of
+  open educational resources.
+
 - [LabXchange](https://www.labxchange.org/): free science content, through a
   collaboration including Harvard, Amgen, Khan Academy, and more.
-
-- [Paul's Online Notes](https://tutorial.math.lamar.edu/): free online and
-  downloadable math notes and tutorials 
-
 
 ## Public Domain works
 
@@ -21,15 +19,13 @@
 - [Standard Ebooks](https://standardebooks.org/): open source public domain
   works with high quality formatting
 
-## General Textbooks
+## Open Textbooks
 
 There are lots of free and open source textbooks online.  Some books are made
 available by the author, and others by the publisher.  
 
 - [OpenStax](https://openstax.org/): peer-reviewed free textbooks published by
   Rice University
-
-- [LibreTexts](https://libretexts.org/): open, interactive, online textbooks
 
 - [Open Textbook Library](https://open.umn.edu/opentextbooks): searchable
   collection of open textbooks hosted by University of Minnesota
@@ -39,6 +35,8 @@ available by the author, and others by the publisher.
 
 - [OASIS](https://oasis.geneseo.edu/index.php): open educational resource
 database hosted by Geneseo college (SUNY)
+
+- [LibreTexts](https://libretexts.org/): open, interactive, online textbooks
 
 
 ## Math and Computer Science Textbooks
@@ -64,6 +62,10 @@ Dana Ernst
 - [Springer](https://link.springer.com/search?facet-content-type=%22Book%22&package=mat-covid19_textbooks&%23038;facet-language=%22En%22&%23038;sortOrder=newestFirst&%23038;showAll=true):
 graduate level math and physics books available during the pandemic
 
+- [Paul's Online Notes](https://tutorial.math.lamar.edu/): free online and
+  downloadable math notes and tutorials 
+
+
 ## Reference
 
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/):
@@ -72,7 +74,4 @@ Technology
 
 - [The Mathematical Functions Grimoire](https://fungrim.org): open source
   library of formulas and data for special functions
-
-
-
 
