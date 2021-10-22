@@ -1,13 +1,11 @@
 # Why open source?
 
-Free and Open Source Software (FOSS) respects the civil liberties
-of the user of the software.
+Free and Open Source Software respects the civil liberties of the user of the
+software, by giving the user the freedom to run, study, modify, and
+redistribute the software.
 
-- The freedom to run the program as you wish, for any purpose (freedom 0).
-- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
-- The freedom to redistribute copies so you can help others (freedom 2).
-- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this
-
+Open Educational Resources give free and open access to all students, promoting
+equity in education.
 
 
 ## General information

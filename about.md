@@ -7,6 +7,13 @@ source projects.
 
 In the classroom I use free and open source software and open textbooks.
 
+My classes:
+- [Pre-Calculus Honors Accelerated](https://dkessner.github.io/PCHA/)
+- [Multivariable Calculus](https://dkessner.github.io/MultiV/)
+- [AP Computer Science A](https://dkessner.github.io/APCS/)
+- [Computer Science Projects](https://dkessner.github.io/CSProjects/)
+
+
 Tools:
 - [Linux](https://en.wikipedia.org/wiki/Linux): free operating system, not only
   for desktop and laptop computers, but for mini-computers like the Raspberry
