@@ -41,7 +41,6 @@ organizations are also making data available publicly.
 
 - [Open Source Shakespeare](https://www.opensourceshakespeare.org/)
 - [Public Domain Review](https://publicdomainreview.org): online journal
-- [Google Arts and Culture](https://artsandculture.google.com/)
 
 
 
