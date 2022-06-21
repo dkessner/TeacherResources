@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Online Resources
+    chapters:
+    - file: resources_education
+    - file: resources_coding
+    - file: resources_miscellaneous
+    - file: recommendations
+  - caption: Software Tutorials
+    chapters:
+    - file: obs
+  - caption: About
+    chapters:
+    - file: open_source
+    - file: about
