@@ -7,13 +7,6 @@ source projects.
 
 In the classroom I use free and open source software and open textbooks.
 
-My classes:
-- [Pre-Calculus Honors Accelerated](https://dkessner.github.io/PCHA/)
-- [Multivariable Calculus](https://dkessner.github.io/MultiV/)
-- [AP Computer Science A](https://dkessner.github.io/APCS/)
-- [Computer Science Projects](https://dkessner.github.io/CSProjects/)
-
-
 Tools:
 - [Linux](https://en.wikipedia.org/wiki/Linux): free operating system, not only
   for desktop and laptop computers, but for mini-computers like the Raspberry
@@ -38,18 +31,27 @@ Computer Science curriculum:
   [AdoptOpenJDK](https://adoptopenjdk.net/): free Java Development Kit
 - [Homebrew](https://brew.sh/): package manager for OSX
 
+My classes:
+- [Pre-Calculus Honors Accelerated](https://dkessner.github.io/PCHA/)
+- [Multivariable Calculus](https://dkessner.github.io/MultiV/)
+- [AP Computer Science A](https://dkessner.github.io/APCS/)
+- [Computer Science Projects](https://dkessner.github.io/CSProjects/)
+
+
 <br/>
+
 ## About these pages
 
 This site is hosted on [GitHub Pages](https://pages.github.com/).  The pages
-are written in Markdown which GitHub converts to HTML with the static site
-generator [Jekyll](https://jekyllrb.com/).  The style sheets are based on the
-[Jekyll hacker theme](https://github.com/pages-themes/hacker).  
+are written in Markdown and converted to HTML (previously with
+the static site generator [Jekyll](https://jekyllrb.com/), currently
+with [JupyterBook](https://jupyterbook.org)).
 
 And here is the [source code](https://github.com/dkessner/TeacherResources) 
 for these pages on GitHub.
 
 <br/>
+
 ## Contact
 
 Dr. Darren Kessner  

@@ -17,3 +17,4 @@ parts:
     chapters:
     - file: open_source
     - file: about
+    - file: license
