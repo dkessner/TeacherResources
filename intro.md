@@ -12,8 +12,8 @@ Have fun!
 
 <br/>
 
-Darren / Dr. Kessner
+Darren / Dr. Kessner  
+Marlborough School   
+Los Angeles  
 
 
-```{tableofcontents}
-```

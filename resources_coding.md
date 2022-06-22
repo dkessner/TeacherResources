@@ -50,5 +50,19 @@ Python is a really good language for learning text-based programming.
   sharing features of Google docs
 
 
+## Web
+
+- [p5.js](https://p5js.org/): the web sibling of Processing
+
+- [Public API Lists](https://github.com/public-api-lists/public-api-lists): 
+  collective list of free APIs for use in software and web development.
+
+
+## Computer Science
+
+- [Open Source Society University](https://github.com/ossu/computer-science):
+    full open source curriculum for a complete Computer Science education
+
+- [NASA software repository](https://software.nasa.gov/)
 
 

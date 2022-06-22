@@ -16,6 +16,7 @@ organizations are also making data available publicly.
 - [National Hurricane Center](https://www.nhc.noaa.gov/data/)
 - [Caselaw Access Project (Harvard Law School)](https://case.law/)
 - [UNICEF public data](https://data.unicef.org/)
+- [CERN open data](http://opendata.cern.ch/)
 
 
 ## Museums, Libraries, and University Collections

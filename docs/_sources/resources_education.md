@@ -21,6 +21,15 @@
 - [Standard Ebooks](https://standardebooks.org/): open source public domain
   works with high quality formatting
 
+- [Library Athena](http://www.libraryathena.com/): another collection of public
+  domain works, nicely formatted
+
+- [Internet Sacred Texts Archive](https://www.sacred-texts.com/): a large
+  freely available archive of online books about religion, mythology, and
+  folklore.
+
+- [Cookbooks](https://archive.org/details/cbk?): thousands of archived cookbooks
+
 ## Open Textbooks
 
 There are lots of free and open source textbooks online.  Some books are made
