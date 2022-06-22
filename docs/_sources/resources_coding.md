@@ -45,9 +45,8 @@ Python is a really good language for learning text-based programming.
 - [Python](https://www.python.org/): main website, with more documentation and
   tutorials than you will ever need
 
-- [Google Colaboratory](https://colab.research.google.com/): Python coding in
-  the browser (based on [Jupyter](https://jupyter.org/)), combined with the
-  sharing features of Google docs
+- [Jupyter Lite](https://jupyter.org/try-jupyter/lab/): Python coding in
+  the browser (based on [Jupyter](https://jupyter.org/)).
 
 
 ## Web
