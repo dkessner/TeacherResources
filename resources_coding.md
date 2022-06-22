@@ -51,6 +51,9 @@ Python is a really good language for learning text-based programming.
 
 ## Web
 
+- [Mozilla Developer resources](https://developer.mozilla.org/): references and
+  guides for web development
+
 - [p5.js](https://p5js.org/): the web sibling of Processing
 
 - [Public API Lists](https://github.com/public-api-lists/public-api-lists): 
