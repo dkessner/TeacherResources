@@ -1,5 +1,5 @@
 
-## About the author
+# About 
 
 I teach math and computer science at Marlborough School, an independent girls
 school in Los Angeles.  My daily work depends heavily on many free and open
