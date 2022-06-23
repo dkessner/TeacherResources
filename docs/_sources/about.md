@@ -12,10 +12,11 @@ Tools:
   for desktop and laptop computers, but for mini-computers like the Raspberry
   Pi.
 - [Vim](https://www.vim.org/): text editor
-- [Markdown](https://daringfireball.net/projects/markdown/), 
-  [LaTeX](https://www.latex-project.org/), and
-  [Pandoc](https://pandoc.org/):
-    typesetting math and code, both for print and online
+- [Markdown](https://daringfireball.net/projects/markdown/) and
+  [LaTeX](https://www.latex-project.org/) for authoring and typesetting
+  mathematics
+- [Pandoc](https://pandoc.org/) and [JupyterBook](https://jupyterbook.org) for
+    Markdown -> HTML/PDF conversion
 - [OBS Studio](https://obsproject.com/): video recording and streaming
 - [VLC](https://www.videolan.org/vlc/index.html): media player
 
@@ -24,6 +25,7 @@ Websites:
 - [GitHub](https://github.com/): software repository for many free and open source projects
 
 Computer Science curriculum:
+- [Atom](https://atom.io/): text editor
 - [Processing](https://processing.org/): simplified Java language and
     development environment, great for learning coding
 - [Python](https://www.python.org/): another great language for learning coding
