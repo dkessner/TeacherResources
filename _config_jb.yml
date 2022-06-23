@@ -34,3 +34,7 @@ html:
 sphinx:
   exclude_patterns:
     - _site/*
+  config:
+    html_extra_path: ['assets']
+
+
