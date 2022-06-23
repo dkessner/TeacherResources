@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Processing Examples &#8212; Open Educational Resources for Teachers</title>
+    <title>Testing &#8212; Open Educational Resources for Teachers</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -51,6 +51,8 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="author" title="About these documents" href="about.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -263,7 +265,7 @@ title="Source repository"
       </li>
       
       <li>
-        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Freadme.html&body=Your%20issue%20content%20here."
+        <a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Ftesting.html&body=Your%20issue%20content%20here."
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -291,7 +293,7 @@ title="Open an issue"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="_sources/readme.md"
+        <a href="_sources/testing.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -328,80 +330,23 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#live-site">
-   Live site
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#jupyterbook">
-   JupyterBook
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#jekyll-deprecated">
-   Jekyll (deprecated)
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Processing Examples</h1>
+                <h1>Testing</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#live-site">
-   Live site
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#jupyterbook">
-   JupyterBook
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#jekyll-deprecated">
-   Jekyll (deprecated)
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -409,37 +354,24 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="processing-examples">
-<h1>Processing Examples<a class="headerlink" href="#processing-examples" title="Permalink to this headline">#</a></h1>
-<section id="live-site">
-<h2>Live site<a class="headerlink" href="#live-site" title="Permalink to this headline">#</a></h2>
-<p><a class="reference external" href="https://dkessner.github.io/TeacherResources/">https://dkessner.github.io/TeacherResources/</a></p>
-</section>
-<section id="jupyterbook">
-<h2>JupyterBook<a class="headerlink" href="#jupyterbook" title="Permalink to this headline">#</a></h2>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">make</span>
-</pre></div>
-</div>
-<p>See <span class="xref myst">Makefile</span> for <code class="docutils literal notranslate"><span class="pre">jb</span></code> command line.</p>
-</section>
-<section id="jekyll-deprecated">
-<h2>Jekyll (deprecated)<a class="headerlink" href="#jekyll-deprecated" title="Permalink to this headline">#</a></h2>
-<p>GitHub Pages uses the static site generator Jekyll to convert Markdown files
-(.md) to HTML.  You can test your local changes to the site using a local
-installation of Jekyll.</p>
-<ol>
-<li><p>Install <a class="reference external" href="https://jekyllrb.com/">Jekyll</a>.</p></li>
-<li><p>Start a local server.</p>
-<p>On the command line, in your local ProcessingExamples directory:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">bundle</span> <span class="n">exec</span> <span class="n">jekyll</span> <span class="n">serve</span>
-</pre></div>
-</div>
-</li>
-<li><p>View the pages in your browser at:
-<a class="reference external" href="http://localhost:4000">http://localhost:4000</a></p></li>
-</ol>
-<p><a class="reference external" href="https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll">Detailed instructions on GitHub</a></p>
-</section>
+  <section class="tex2jax_ignore mathjax_ignore" id="testing">
+<h1>Testing<a class="headerlink" href="#testing" title="Permalink to this headline">#</a></h1>
+<p>The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.</p>
+<iframe src="hello/index.html" width="450px" height="450px"></iframe>
+<div class="math notranslate nohighlight">
+\[ 
+\lim_{x\to\infty}\dfrac{\sin x}{x} = 1
+\]</div>
+<p>The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.
+The <em>quick</em> brown fox jumps over the <strong>lazy</strong> dog.</p>
+<iframe src="hello/index.html" width="450px" height="450px"></iframe>
 </section>
 
     <script type="text/x-thebe-config">

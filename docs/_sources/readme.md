@@ -5,7 +5,17 @@
 [https://dkessner.github.io/TeacherResources/](https://dkessner.github.io/TeacherResources/)
 
 
-## Local testing
+## JupyterBook
+
+```
+make
+```
+
+See [Makefile](Makefile) for `jb` command line.
+
+
+
+## Jekyll (deprecated)
 
 GitHub Pages uses the static site generator Jekyll to convert Markdown files
 (.md) to HTML.  You can test your local changes to the site using a local
