@@ -3,7 +3,7 @@
 
 title: Open Educational Resources for Teachers
 author: Dr. Darren Kessner
-logo: logo.png
+logo: oer_logo.svg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
