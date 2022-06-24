@@ -13,6 +13,10 @@
 - [LabXchange](https://www.labxchange.org/): free science content, through a
   collaboration including Harvard, Amgen, Khan Academy, and more.
 
+- [SkillsCommons](https://www.skillscommons.org/): open library of workforce
+  training materials, supported by the 
+  [MERLOT project](https://www.merlot.org/merlot/) at CSU Long Beach.
+
 ## Public Domain works
 
 - [Project Gutenberg](https://www.gutenberg.org/): online library of public
